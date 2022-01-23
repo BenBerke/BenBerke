@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenBerke
-- 👀 I’m interested in game ur mom
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in game game devolopment
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: don't reach me
 
