@@ -8,7 +8,7 @@ I also build CPU renderers, interpreters, virtual machines, digital logic experi
 
 ## Portfolio
 
-[View my portfolio website](https://your-portfolio-url-here)
+[View my portfolio website](https://BenBerke.github.io)  
 
 ## Main Projects
 
@@ -23,5 +23,5 @@ OpenGL, GLSL, SDL2/3, OpenAL, ImGui, CMake, Tracy
 
 ## Contact
 
-Portfolio: [https://your-portfolio-url-here](https://BenBerke.github.io)  
+Portfolio: https://BenBerke.github.io) 
 Email: berkememioglu@gmail.com
