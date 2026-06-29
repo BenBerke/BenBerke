@@ -23,5 +23,8 @@ OpenGL, GLSL, SDL2/3, OpenAL, ImGui, CMake, Tracy
 
 ## Contact
 
-Portfolio: https://BenBerke.github.io) 
 Email: berkememioglu@gmail.com
+
+Portfolio: https://BenBerke.github.io
+
+LinkedIn: https://www.linkedin.com/in/berke-memioglu-353b18399/
